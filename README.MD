@@ -1,6 +1,6 @@
 # Simple PDF Merger
 
-Breve descripción o resumen del proyecto.
+Script sencillo con python para unir PDFs en un mismo fichero de forma rápida y sencilla.
 
 ## Instalación
 
