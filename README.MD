@@ -10,7 +10,7 @@ Breve descripción o resumen del proyecto.
 
 ## Uso
 
-Explica cómo se utiliza tu proyecto. Proporciona ejemplos y ejercicios prácticos.
+El script debe estar en el mismo directorio que los PDFs que se van a unir.
 
 ```bash
 python pdfMerger.py
