@@ -1,4 +1,4 @@
-# Mi Proyecto
+# Simple PDF Merger
 
 Breve descripción o resumen del proyecto.
 
